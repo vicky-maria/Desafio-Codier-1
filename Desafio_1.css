@@ -1,0 +1,25 @@
+body {
+				text-align: center;
+				font-size: 3vw;
+				background-color: #F5D104;
+				
+}
+
+.conteiner {
+				background-color: #78C8EA;
+				position: relative;
+				margin-left: auto;
+				margin-right: auto;
+				width: 90%;
+				padding: 10px;
+				border-radius: 40px;
+}
+
+img {
+				max-width: 250px;
+				border-radius: 500px;
+}
+
+hr {
+				background-color: #F5D104;
+}
